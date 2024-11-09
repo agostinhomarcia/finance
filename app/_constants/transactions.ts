@@ -3,6 +3,7 @@ import {
   TransactionPaymentMethod,
   TransactionType,
 } from "@prisma/client";
+
 export const TRANSACTION_CATEGORY_LABELS = {
   EDUCATION: "Educação",
   ENTERTAINMENT: "Entretenimento",
@@ -14,6 +15,7 @@ export const TRANSACTION_CATEGORY_LABELS = {
   TRANSPORTATION: "Transporte",
   UTILITY: "Utilidades",
 };
+
 export const TRANSACTION_PAYMENT_METHOD_LABELS = {
   BANK_TRANSFER: "Transferência Bancária",
   BANK_SLIP: "Boleto Bancário",
@@ -23,6 +25,7 @@ export const TRANSACTION_PAYMENT_METHOD_LABELS = {
   OTHER: "Outros",
   PIX: "Pix",
 };
+
 export const TRANSACTION_TYPE_OPTIONS = [
   {
     value: TransactionType.EXPENSE,
@@ -37,6 +40,7 @@ export const TRANSACTION_TYPE_OPTIONS = [
     label: "Investimento",
   },
 ];
+
 export const TRANSACTION_PAYMENT_METHOD_OPTIONS = [
   {
     value: TransactionPaymentMethod.BANK_TRANSFER,

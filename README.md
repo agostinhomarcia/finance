@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Finance.ai 📊
 
-## Getting Started
+![Finance.ai Logo](link-para-seu-logo.png) <!-- Você pode adicionar o logo do projeto aqui -->
 
-First, run the development server:
+## 🚧 Em Construção 🚧
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+> **Note**: Este projeto está em desenvolvimento ativo. Novas funcionalidades estão sendo adicionadas regularmente.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 Descrição
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Finance.ai é uma aplicação web moderna para gestão financeira pessoal, permitindo aos usuários acompanhar receitas, despesas e investimentos de forma intuitiva e eficiente. Com uma interface limpa e amigável, oferece visualizações detalhadas através de gráficos e relatórios personalizados.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠 Tecnologias Utilizadas
 
-## Learn More
+- **Next.js** - Framework React para produção
+- **React.js** - Biblioteca JavaScript para construção de interfaces
+- **PostgreSQL** - Banco de dados relacional
+- **Tailwind CSS** - Framework CSS utility-first
+- **Prisma** - ORM (Object-Relational Mapping) para Node.js e TypeScript
+- **Node.js** - Runtime JavaScript
+- **ShadCN** - Biblioteca de componentes UI
+- **TypeScript** - Superset JavaScript com tipagem estática
+- **JavaScript** - Linguagem de programação base
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Funcionalidades Principais
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Dashboard interativo com visão geral das finanças
+- Acompanhamento de receitas e despesas
+- Gestão de investimentos
+- Gráficos e relatórios detalhados
+- Interface responsiva e moderna
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🔜 Próximos Passos
 
-## Deploy on Vercel
+- [ ] Implementação de novas features
+- [ ] Melhorias na interface do usuário
+- [ ] Otimizações de performance
+- [ ] Documentação completa
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📫 Contato
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[Seu Nome](link-para-seu-perfil) - [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+
+---
+
+⭐️ [finance.ai](link-para-seu-projeto) - Transformando sua gestão financeira!

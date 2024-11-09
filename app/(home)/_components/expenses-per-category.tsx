@@ -3,11 +3,9 @@ import { Progress } from "@/app/_components/ui/progress";
 import { ScrollArea } from "@/app/_components/ui/scroll-area";
 import { TRANSACTION_CATEGORY_LABELS } from "@/app/_constants/transactions";
 import { TotalExpensePerCategory } from "@/app/_data/get-dashboard/types";
-
 interface ExpensesPerCategoryProps {
   expensesPerCategory: TotalExpensePerCategory[];
 }
-
 const ExpensesPerCategory = ({
   expensesPerCategory,
 }: ExpensesPerCategoryProps) => {

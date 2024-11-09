@@ -44,8 +44,8 @@ const Home = async ({ searchParams: { month } }: HomeProps) => {
               />
             </div>
           </div>
+          <LastTransactions lastTransactions={dashboard.lastTransactions} />
         </div>
-        <LastTransactions lastTransactions={dashboard.lastTransactions} />
       </div>
     </>
   );

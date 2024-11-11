@@ -44,3 +44,4 @@ Finance.ai é uma aplicação web moderna para gestão financeira pessoal, permi
 ---
 
 ⭐️ [finance.ai](link-para-seu-projeto) - Transformando sua gestão financeira!
+
